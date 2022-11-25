@@ -1,0 +1,86 @@
+body {
+    background: #371d5d
+}
+
+h1{
+  padding-left: 20px;
+  font-size: 40px;
+  color: #92cbe3;
+}
+
+#banner {
+  width: 100%;
+}
+
+.começo {
+  background: #92cbe3;
+  padding: 30px;
+
+}
+
+.titulo{
+  text-align: center;
+  font-size: 40px;
+  color: #371d5d
+}
+
+p {
+    text-align: center;
+    font-size: 30px
+}
+
+
+strong {
+  color: #483d8b
+}
+
+strong em {
+    color: #f08400;
+}
+
+.nada {
+  font-size: 5px;
+}
+
+.dama {
+  background: #92cbe3;
+  padding: 50px;
+
+}
+
+.catrina {
+  font-size: 30px;
+  width:60%;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 5%;
+
+}
+
+.morte {
+    width:30%;
+}
+
+.elementos {
+  background: #92cbe3;
+  padding: 40px;
+
+}
+
+.caveira {
+  font-size: 30px;
+  width:50%;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 5%;
+}
+
+.foto {
+    width:40%;
+}
+
+.cica {
+  width:20%;
+  margin-right: 50%;
+  margin-left: 40%
+}
